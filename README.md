@@ -26,5 +26,6 @@ AAPL.csv: The dataset containing historical stock prices of Apple Inc.
 MLPRegressor_Stock_Price_Prediction.ipynb: Jupyter Notebook containing code for training and evaluating the MLPRegressor model.
 Prophet_Stock_Price_Prediction.ipynb: Jupyter Notebook containing code for training and evaluating the Prophet model.
 README.md: This file providing an overview of the project and instructions for running the code.
+
 Conclusion
 Both the MLPRegressor and Prophet models demonstrated promising results in predicting stock prices. These models can be further optimized and fine-tuned to improve performance and provide more accurate forecasts.
