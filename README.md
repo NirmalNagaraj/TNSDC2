@@ -1,9 +1,9 @@
-##Stock Price Prediction with MLPRegressor and Prophet
+#Stock Price Prediction with MLPRegressor and Prophet
 
-##Overview
+#Overview
 This repository contains code for predicting stock prices using two different approaches: MLPRegressor from scikit-learn and Prophet by Facebook. The MLPRegressor model is implemented using neural networks, while Prophet is a forecasting tool specifically designed for time series data.
 
-Data
+#Data
 The dataset used for this project is AAPL.csv, which contains historical stock prices of Apple Inc. The dataset consists of the following columns:
 
 Date: The date of the stock price data
